@@ -1,7 +1,7 @@
 # Nike Dashboard frontend designing project using Tailwind CSS
 
-![Nike Project Dashboard](
-public\Nike_Dash.png)
+![Nike Project Dashboard](https://github.com/Raaz-mourya/Nike-React-TailwindCSS/blob/master/public/Nike_Dash.png)
+
 
 List of using in the project
 
